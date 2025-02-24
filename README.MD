@@ -11,7 +11,7 @@ Busco minha primeira oportunidade na área para aplicar meus conhecimentos em au
 - 🌟 Conhecimentos em **SQL, Python, Design de Teste, Automação de Testes e Integração Contínua.**
 - 💬 Pergunte-me sobre **Testes, Automação, Ferramentas e Metodologias.**
 - 📫 Contato: **stefancorrea2211@gmail.com**
-- 📄 Experiência no [LinkedIn](https://www.linkedin.com/in/stefan-correa-5a21b419a/)
+- 📄 Experiência no [LinkedIn](https://www.linkedin.com/in/stefan-correa)
 
 ---
 
