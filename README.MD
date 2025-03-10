@@ -1,9 +1,17 @@
 <h1 align="center">Olá 👋, sou Stefan Correa</h1>
 <h3 align="center">
- Formação em Qualidade de Software (QA), especializado em garantir a qualidade e precisão dos sistemas. 
-Tenho experiência com ferramentas como Jira, testes de API e metodologias ágeis. 
-Habilidades analíticas para otimização de processos. 
-Busco minha primeira oportunidade na área para aplicar meus conhecimentos em automação de testes e integração contínua, com o objetivo de me tornar um especialista e contribuir para o desenvolvimento de soluções de alta qualidade.
+ Sou especializado em Analista de QA e estou pronto para ingressar na área, com o objetivo de garantir a qualidade, precisão e confiabilidade dos sistemas. Minha principal motivação é identificar e prevenir falhas, aprimorando processos para entregar soluções eficazes e de alto desempenho. Atualmente, estou em busca da minha primeira oportunidade no mercado de QA, onde possa aplicar meus conhecimentos e contribuir para o desenvolvimento de produtos robustos e escaláveis.
+
+Embora esteja em transição de carreira, desenvolvi habilidades analíticas e técnicas que me permitem otimizar processos e melhorar a eficiência das entregas. Possuo experiência com ferramentas como Jira, Postman e Cypress, além de conhecimento em metodologias ágeis e tradicionais, como Scrum, DevOps, Waterfall, BDD e TDD. Também tenho familiaridade com linguagens de programação como SQL, Python, Java, JavaScript, C# e Shell, o que me permite atuar de forma eficiente em times de desenvolvimento e automação.
+
+Meu objetivo é me tornar um especialista em QA, com foco em automação de testes e integração contínua. No curto prazo, busco uma oportunidade para aplicar minhas habilidades e crescer profissionalmente. A longo prazo, desejo consolidar minha carreira na área, sendo reconhecido(a) pela capacidade de melhorar processos e garantir a entrega de software de alta qualidade.
+
+Conhecimentos Técnicos
+
+✅ Ferramentas: Jira, Postman e Cypress
+✅ Linguagens: SQL, Python, Java,
+✅ Metodologias: Scrum, DevOps, Waterfall, BDD, TDD
+✅ Outros: Automação de Testes, Integração Contínua.
 </h3>
 
 ---
